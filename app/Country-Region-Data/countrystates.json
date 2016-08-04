@@ -1,0 +1,17 @@
+[
+  {
+    "country":"Austraila",
+      "state": ["Austraila state 1", "Austraila state 2"]
+
+  },
+  {
+    "country":"USA",
+      "state": ["USA state 1", "USA state 2", "USA state 3", "USA state 4", "USA state 5", "USA state 6"]
+
+  },
+  {
+    "country":"INDIA",
+      "state": ["INDIA state 1", "INDIA state 2"]
+
+  }
+]
